@@ -169,3 +169,5 @@ corruptmnist_v2/
 
 # vscode
 .vscode/
+/log/resnet18
+s4_debugging_and_logging/exercise_files/trace.json
